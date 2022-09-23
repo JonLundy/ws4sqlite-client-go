@@ -1,3 +1,3 @@
-module github.com/proofrock/ws4sqlite-client-go
+module github.com/jonlundy/ws4sqlite-client-go
 
 go 1.17

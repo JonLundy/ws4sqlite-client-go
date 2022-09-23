@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	ws4 "github.com/proofrock/ws4sqlite-client-go"
+	ws4 "github.com/jonlundy/ws4sqlite-client-go"
 )
 
 func kill(cmd *exec.Cmd) {
